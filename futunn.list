@@ -1,21 +1,16 @@
-# NAME: 12306
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:30
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
-DOMAIN-SUFFIX,12306.cn
-DOMAIN-SUFFIX,95306.cn
-DOMAIN-SUFFIX,95572.com
-DOMAIN-SUFFIX,china-railway.com.cn
-DOMAIN-SUFFIX,china-ric.com
-DOMAIN-SUFFIX,crct.com
-DOMAIN-SUFFIX,cre.cn
-DOMAIN-SUFFIX,crecc.com.cn
-DOMAIN-SUFFIX,creip.cn
-DOMAIN-SUFFIX,crscl.com.cn
-DOMAIN-SUFFIX,gzrailway.com.cn
-DOMAIN-SUFFIX,nntlj.com
-DOMAIN-SUFFIX,peoplerail.com
-DOMAIN-SUFFIX,rails.cn
-DOMAIN-SUFFIX,tdpress.com
+# NAME: futunn
+DOMAIN-KEYWORD,futu.com
+DOMAIN-KEYWORD,moomoo.com
+DOMAIN-KEYWORD,moomoobull.com
+DOMAIN-KEYWORD,fututrade.com
+DOMAIN-KEYWORD,futusg.com
+DOMAIN-KEYWORD,futunn.com
+DOMAIN-KEYWORD,futuhk.com
+
+IP-CIDR,3.96.0.0/8,no-resolve
+IP-CIDR,3.97.0.0/8,no-resolve
+IP-CIDR,3.98.0.0/8,no-resolve
+IP-CIDR,47.254.0.0/8,no-resolve
+IP-CIDR,47.250.0.0/8,no-resolve
+IP-CIDR,43.163.0.0/8,no-resolve
+IP-CIDR,15.222.0.0/8,no-resolve
