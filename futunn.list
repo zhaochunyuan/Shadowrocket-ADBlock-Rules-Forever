@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN_SUFFIX,appsflyersdk.com
-DOMAIN_KEYWORD,appsflyersdk.com
 DOMAIN-KEYWORD,futu.com
 DOMAIN-KEYWORD,moomoo.com
 DOMAIN-KEYWORD,moomoobull.com
@@ -17,6 +16,9 @@ DOMAIN-KEYWORD,futusg.com
 DOMAIN-KEYWORD,futunn.com
 DOMAIN-KEYWORD,futuhk.com
 DOMAIN-KEYWORD,futuhn.com
+DOMAIN_KEYWORD,appsflyersdk.com
+
+
 IP-CIDR,3.96.0.0/16,no-resolve
 IP-CIDR,3.97.0.0/16,no-resolve
 IP-CIDR,3.98.0.0/16,no-resolve
