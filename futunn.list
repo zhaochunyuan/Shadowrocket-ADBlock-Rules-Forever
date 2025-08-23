@@ -1,16 +1,16 @@
 # NAME: futunn
-DOMAIN-SUFFIX,futu.com
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,moomoobull.com
-DOMAIN-SUFFIX,fututrade.com
-DOMAIN-SUFFIX,futusg.com
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuhk.com
+DOMAIN-KEYWORD,futu.com
+DOMAIN-KEYWORD,moomoo.com
+DOMAIN-KEYWORD,moomoobull.com
+DOMAIN-KEYWORD,fututrade.com
+DOMAIN-KEYWORD,futusg.com
+DOMAIN-KEYWORD,futunn.com
+DOMAIN-KEYWORD,futuhk.com
 
-IP-CIDR,3.96.0.0/32,no-resolve
-IP-CIDR,3.97.0.0/32,no-resolve
-IP-CIDR,3.98.0.0/32,no-resolve
-IP-CIDR,47.254.0.0/32,no-resolve
-IP-CIDR,47.250.0.0/32,no-resolve
-IP-CIDR,43.163.0.0/32,no-resolve
-IP-CIDR,15.222.0.0/32,no-resolve
+IP-CIDR,3.96.0.0/24,no-resolve
+IP-CIDR,3.97.0.0/24,no-resolve
+IP-CIDR,3.98.0.0/24,no-resolve
+IP-CIDR,47.254.0.0/24,no-resolve
+IP-CIDR,47.250.0.0/24,no-resolve
+IP-CIDR,43.163.0.0/24,no-resolve
+IP-CIDR,15.222.0.0/24,no-resolve
