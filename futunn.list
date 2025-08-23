@@ -7,10 +7,10 @@ DOMAIN-KEYWORD,futusg.com
 DOMAIN-KEYWORD,futunn.com
 DOMAIN-KEYWORD,futuhk.com
 
-IP-CIDR,3.96.0.0/24,no-resolve
-IP-CIDR,3.97.0.0/24,no-resolve
-IP-CIDR,3.98.0.0/24,no-resolve
-IP-CIDR,47.254.0.0/24,no-resolve
-IP-CIDR,47.250.0.0/24,no-resolve
-IP-CIDR,43.163.0.0/24,no-resolve
-IP-CIDR,15.222.0.0/24,no-resolve
+IP-CIDR,3.96.0.0/32,no-resolve
+IP-CIDR,3.97.0.0/32,no-resolve
+IP-CIDR,3.98.0.0/32,no-resolve
+IP-CIDR,47.254.0.0/32,no-resolve
+IP-CIDR,47.250.0.0/32,no-resolve
+IP-CIDR,43.163.0.0/32,no-resolve
+IP-CIDR,15.222.0.0/32,no-resolve
