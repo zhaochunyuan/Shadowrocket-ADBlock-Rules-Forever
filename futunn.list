@@ -1,4 +1,4 @@
-# NAME: futunn
+#futu 域名
 DOMAIN-SUFFIX,futu.com
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomoobull.com
@@ -15,7 +15,78 @@ DOMAIN-KEYWORD,futusg.com
 DOMAIN-KEYWORD,futunn.com
 DOMAIN-KEYWORD,futuhk.com
 DOMAIN-KEYWORD,futuhn.com
+#futu 域名
+DOMAIN-KEYWORD,futuhk.com
+DOMAIN-KEYWORD,futu.link
+DOMAIN-KEYWORD,futunn.com
+DOMAIN-KEYWORD,futuhn.com
+DOMAIN-KEYWORD,futu.com
+DOMAIN-KEYWORD,futu0.com
+DOMAIN-KEYWORD,futu1.com
+DOMAIN-KEYWORD,futu2.com
+DOMAIN-KEYWORD,futu3.com
+DOMAIN-KEYWORD,futu4.com
+DOMAIN-KEYWORD,futu5.com
+DOMAIN-KEYWORD,futu6.com
+DOMAIN-KEYWORD,futu7.com
+DOMAIN-KEYWORD,futu8.com
+DOMAIN-KEYWORD,futu9.com
+DOMAIN-KEYWORD,futuinc.com
+DOMAIN-KEYWORD,futuniuniu.com
+DOMAIN-KEYWORD,futu.cn
+DOMAIN-KEYWORD,futufin.com
+DOMAIN-KEYWORD,futuhk2.com
+DOMAIN-KEYWORD,futuholdings.com
+DOMAIN-KEYWORD,futuesop.com
+DOMAIN-KEYWORD,futubull.cn
+DOMAIN-KEYWORD,futuchain.com
+DOMAIN-KEYWORD,moomoo.com
+DOMAIN-KEYWORD,qtcard.futunn.com
+DOMAIN-KEYWORD,qtcardfthk.futufin.com
+DOMAIN-KEYWORD,openapi.futunn.com
+DOMAIN-KEYWORD,api.futunn.com
+DOMAIN-KEYWORD,api5.futunn.com
+DOMAIN-KEYWORD,trade.futunn.com
+DOMAIN-KEYWORD,support.futunn.com
+DOMAIN-KEYWORD,download.futunn.com
+DOMAIN-KEYWORD,cdn.futustatic.com
+#futu 域名
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futu.link
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futu0.com
+DOMAIN-SUFFIX,futu1.com
+DOMAIN-SUFFIX,futu2.com
+DOMAIN-SUFFIX,futu3.com
+DOMAIN-SUFFIX,futu4.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futu6.com
+DOMAIN-SUFFIX,futu7.com
+DOMAIN-SUFFIX,futu8.com
+DOMAIN-SUFFIX,futu9.com
+DOMAIN-SUFFIX,futuinc.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futu.cn
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk2.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futubull.cn
+DOMAIN-SUFFIX,futuchain.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,qtcard.futunn.com
+DOMAIN-SUFFIX,qtcardfthk.futufin.com
+DOMAIN-SUFFIX,openapi.futunn.com
+DOMAIN-SUFFIX,api.futunn.com
+DOMAIN-SUFFIX,api5.futunn.com
+DOMAIN-SUFFIX,trade.futunn.com
+DOMAIN-SUFFIX,support.futunn.com
+DOMAIN-SUFFIX,download.futunn.com
+DOMAIN-SUFFIX,cdn.futustatic.com
 
+#IP-CIDR
 IP-CIDR,3.96.0.0/16,no-resolve
 IP-CIDR,3.97.0.0/16,no-resolve
 IP-CIDR,3.98.0.0/16,no-resolve
@@ -23,5 +94,11 @@ IP-CIDR,47.254.0.0/16,no-resolve
 IP-CIDR,47.250.0.0/16,no-resolve
 IP-CIDR,43.163.0.0/16,no-resolve
 IP-CIDR,15.222.0.0/16,no-resolve
-
+IP-CIDR,119.28.0.0/16,no-resolve
+IP-CIDR,43.153.0.0/16,no-resolve
+IP-CIDR,124.156.0.0/16,no-resolve
+IP-CIDR,170.106.0.0/16,no-resolve
+IP-CIDR,119.91.0.0/16,no-resolve
+IP-CIDR,43.153.0.0/16,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
 
